@@ -16,4 +16,4 @@ In **Settings → Pages → Custom domain**, enter `curentlabs.com` and save. Gi
 
 The public page displays “Coming soon” for email and phone because neither was supplied. Set verified public values in the `CONTACT` object in `script.js`; links will be created automatically.
 
-The artwork and mark are SVG files in `assets/`.
+The hero artwork is an optimized transparent WebP in `assets/`; the company mark is an SVG.
